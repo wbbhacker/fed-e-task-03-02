@@ -1,0 +1,9 @@
+作业简答题写成博客形式了
+1.Vue首次渲染过程
+https://wbbyouzi.com/archives/304
+2.Vue响应式原理
+https://wbbyouzi.com/archives/306
+3.虚拟Dom中key的作用和好处
+https://wbbyouzi.com/archives/328
+4.Vue中模板编译的过程
+https://wbbyouzi.com/archives/333
